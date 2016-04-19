@@ -1,8 +1,5 @@
 This is a zoomeye SDK to make you use zoomeye easily.
 
-You can install using pip like this:
-pip install zoomeye
-
 You can use it to search some hosts like this:
 from zoomeye import zoomeye
 
