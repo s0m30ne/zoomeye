@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 """Zoomeye SDK to search the web space."""
 
 import sys
