@@ -3,7 +3,6 @@ How to Install it:
 	python setup.py install
 
 This is a zoomeye SDK to make you use zoomeye easily.
-
 You can use it to search some hosts like this:
 
 	from zoomeye import zoomeye
