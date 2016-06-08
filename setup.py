@@ -37,6 +37,7 @@ setup(
     version = VERSION,
     description = DESCRIPTION,
     long_description = LONG_DESCRIPTION,
+    install_requires = ['certifi',],
     classifiers = [
         'Environment :: Console',
         'Environment :: MacOS X',
